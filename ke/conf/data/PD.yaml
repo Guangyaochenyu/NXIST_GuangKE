@@ -1,0 +1,6 @@
+# conf/data/PD.yaml
+
+name: PD
+src:
+  train: ke/data/PD/train.txt
+  valid: ke/data/PD/valid.txt

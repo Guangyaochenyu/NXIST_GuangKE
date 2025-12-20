@@ -1,0 +1,11 @@
+# config/model/BiLSTM_Large.yaml
+
+name:           BiLSTM_Large
+
+word_dim:       4096
+hidden_dim:     1024
+drop_out:       0.5
+num_layers:     3
+bidirectional:  True
+
+save_path:  ''

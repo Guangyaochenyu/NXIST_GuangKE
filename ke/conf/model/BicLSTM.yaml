@@ -1,0 +1,11 @@
+# config/model/BicLSTM.yaml
+
+name:           BicLSTM
+
+word_dim:       2048
+hidden_dim:     512
+drop_out:       0.5
+num_layers:     2
+bidirectional:  True
+
+save_path:  ''

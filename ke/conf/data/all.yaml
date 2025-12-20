@@ -1,0 +1,6 @@
+# conf/data/all.yaml
+
+name: all
+src:
+  train: ke/data/all/train.txt
+  valid: ke/data/all/valid.txt

@@ -1,0 +1,10 @@
+# conf/config.yaml
+
+task: 'train'      # ['train', 'predict']
+
+defaults:
+  - data: ???      # [MSRA,PD,all]
+  - model: ???     # [BiLSTM,BicLSTM,BiLSTM_Large,BicLSTM_Large,BiLSTM_Small,BicLSTM_Small]
+  - train
+  - predict
+  - _self_

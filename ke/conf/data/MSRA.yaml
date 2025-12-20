@@ -1,0 +1,6 @@
+# conf/data/MSRA.yaml
+
+name: MSRA
+src:
+  train: ke/data/MSRA/train.txt
+  valid: ke/data/MSRA/valid.txt
